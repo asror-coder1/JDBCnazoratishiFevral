@@ -25,6 +25,7 @@ public class Main {
                     5.Space
                     """);
 
+
             int work = scannerInt.nextInt();
 
             System.out.println("""
