@@ -56,6 +56,7 @@ public class Main {
                             System.out.println("Enter name:");
                             String name = scannerString.nextLine();
 
+
                             System.out.println("Enter extends_role:");
                             String extends_role = scannerString.nextLine();
 
