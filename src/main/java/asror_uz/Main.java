@@ -78,6 +78,7 @@ public class Main {
                             System.out.println("Enter id:");
                             Long id = scannerInt.nextLong();
                             db.delete(id);
+
                         }
                     }
                 }
